@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 760" role="img" aria-labelledby="title desc">
+  <title id="title">Profile photo placeholder</title>
+  <desc id="desc">A neutral silhouette to be replaced with a profile photo of Professor Meng Gao.</desc>
+  <rect width="700" height="760" fill="#e8f1ed"/>
+  <circle cx="350" cy="285" r="120" fill="#a8c5b9"/>
+  <path d="M125 760c10-190 96-302 225-302s215 112 225 302" fill="#a8c5b9"/>
+  <text x="350" y="75" text-anchor="middle" fill="#0f5b46" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">PROFILE PHOTO PLACEHOLDER</text>
+  <text x="350" y="108" text-anchor="middle" fill="#526b61" font-family="Arial, sans-serif" font-size="15">Replace with your own portrait.</text>
+</svg>
