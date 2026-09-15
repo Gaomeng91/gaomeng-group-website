@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 660" role="img" aria-labelledby="title desc">
+  <title id="title">Group member photo placeholder</title>
+  <desc id="desc">A neutral silhouette to be replaced with a group member photo.</desc>
+  <rect width="600" height="660" fill="#f0f4f2"/>
+  <circle cx="300" cy="260" r="100" fill="#bed0c9"/>
+  <path d="M100 660c15-160 90-260 200-260s185 100 200 260" fill="#bed0c9"/>
+  <text x="300" y="70" text-anchor="middle" fill="#0f5b46" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2">MEMBER PHOTO</text>
+  <text x="300" y="98" text-anchor="middle" fill="#607269" font-family="Arial, sans-serif" font-size="14">Replace this placeholder.</text>
+</svg>
